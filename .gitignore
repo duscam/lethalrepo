@@ -1,0 +1,6 @@
+*
+!.gitignore
+!/BepInEx
+!/BepInEx/plugins
+!**/plugins/*.dll
+!**/plugins/skillmenu
