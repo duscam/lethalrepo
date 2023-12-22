@@ -1,6 +1,15 @@
 *
 !.gitignore
+## BepInEx
+!/winhttp.dll
+!/doorstop_config.ini
 !/BepInEx
+!/BepInEx/core
+!/BepInEx/core/*
+!/BepInEx/config
+!/BepInEx/config/BepInEx.cfg
 !/BepInEx/plugins
+
+## Plugins here
 !**/plugins/*.dll
 !**/plugins/skillmenu
