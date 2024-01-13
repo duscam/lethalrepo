@@ -17,3 +17,4 @@
 !**/plugins/Bundles/*
 !**/plugins/2018-LC_API
 !**/plugins/2018-LC_API/*
+!**/plugins/*.WAD
