@@ -13,3 +13,7 @@
 ## Plugins here
 !**/plugins/*.dll
 !**/plugins/skillmenu
+!**/plugins/Bundles
+!**/plugins/Bundles/*
+!**/plugins/2018-LC_API
+!**/plugins/2018-LC_API/*
