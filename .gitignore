@@ -12,9 +12,12 @@
 
 ## Plugins here
 !**/plugins/*.dll
-!**/plugins/skillmenu
 !**/plugins/Bundles
 !**/plugins/Bundles/*
 !**/plugins/2018-LC_API
 !**/plugins/2018-LC_API/*
+
+## Files in plugins folder
+!**/plugins/skillmenu
+!**/plugins/SellCorpses
 !**/plugins/*.WAD
