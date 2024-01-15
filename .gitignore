@@ -8,14 +8,25 @@
 !/BepInEx/core/*
 !/BepInEx/config
 !/BepInEx/config/BepInEx.cfg
-!/BepInEx/plugins
+!/BepInEx/config/HookGenPatcher.cfg
+
+!/BepInEx/patchers
+!/BepInEx/patchers/**/*
 
 ## Plugins here
+!/BepInEx/plugins
 !**/plugins/*.dll
 !**/plugins/Bundles
 !**/plugins/Bundles/*
+
 !**/plugins/2018-LC_API
 !**/plugins/2018-LC_API/*
+
+!**/plugins/LethalLib
+!**/plugins/LethalLib/*
+
+!**/plugins/ScoopysVarietyMod
+!**/plugins/ScoopysVarietyMod/*
 
 ## Files in plugins folder
 !**/plugins/skillmenu
