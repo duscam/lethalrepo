@@ -31,3 +31,4 @@
 ## Files in plugins folder
 !**/plugins/skillmenu
 !**/plugins/SellCorpses
+!**/plugins/*.WAD
