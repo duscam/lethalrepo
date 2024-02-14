@@ -31,6 +31,9 @@
 !**/plugins/Scopophobia
 !**/plugins/Scopophobia/*
 
+!**/plugins/FacilityMeltdown
+!**/plugins/FacilityMeltdown/*
+
 ## Files in plugins folder
 !**/plugins/skillmenu
 !**/plugins/SellCorpses
